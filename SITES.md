@@ -181,7 +181,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | wpminecraft blogspot com           |      1      |        5       |   5   |       |
 | xn--2-8sbausglk2acux xn--p1ai      |      5      |        5       |   3   |       |
 | yourminecraft com                  |      3      |        5       |   3   |       |
-
+| www.minecrafteo.com                |      5      |        5       |   1   |  
 I don't know how to rate these sites. Help?
 ===========================================
 |                                    | Advertising | Redistribution | Wrong-Labeled Info | Notes |
